@@ -4,3 +4,6 @@ int main(){
     return 0;
     int demo;
 }
+int add(int a,int b){
+    return a+b;
+}
